@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=simproxy
+Comment=
+Exec=/home/software/simproxy/simproxy
+Icon=/home/software/simproxy/data/icon/main.ico
+Path=
+Terminal=false
+StartupNotify=false
